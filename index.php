@@ -1,3 +1,49 @@
+  
+<!--
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX000KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWNK0kdoooodxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWXKOxooooooooolooxk0XWMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWNX0kdoooloooooooooooooodxOKNWMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMWNKOxooolooooooooooooooooooolooxk0XWMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMWNX0kdollooloooooooooooooooooooooloooodk0KNWMMMMMMMMMMMMM
+MMMMMMMMMMWNKOxoollooooooloooooooooooooooooooooooooooooxOKNWMMMMMMMMMM
+MMMMMMMWX0kdoooooooooooooooooooooooooooooooooooooooooooooodk0XNMMMMMMM
+MMMMMMNkdoloooooooooooooooooooooooooooooooooooooooooooooooooooxOXWMMMM
+MMMMMMXxooooloooooooooooooooooooooooooooooooooooooooooooooolool:oKWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooolooc;:OWMMM
+MMMMMMXxooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXxooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooolooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooolooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM 
+        _   _   _   _   _   _   _   _     _   _   _   _   _   _    
+       / \ / \ / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ / \ / \ 
+      ( n | e | w | - | n | o | d | e ) ( s | o | c | i | a | l )
+       \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ \_/ \_/
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXdooooooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMXxooooooooooooooooooooooooooooooooooooooooooooooooooooool;:OWMMM
+MMMMMMXxooolooooooooooooooooooooooooooooooooooooooooooooooooooc;:OWMMM
+MMMMMMW0xoloolooooooooooooooooooooooooooooooooooooooooooooollc;,c0WMMM
+MMMMMMMWXkdollloooooooooooooooooooooooooooooooooooooooollc:;,;:oONMMMM
+MMMMMMMMMWNKOxollloooooooooooooooooooooooooooooooooollc;,,;cdOXNWMMMMM
+MMMMMMMMMMMMMWX0kdolllooooolooooooooooooooooooooolc:;,,:ok0NWMMMMMMMMM
+MMMMMMMMMMMMMMMMWNKOxollloooloooooooooooooooollc:,,;cdOKNWMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWX0kdollloooooooooooollc:;,,:lx0NWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMWNKOxollloooooollc:;,;cdOKNWMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdolllc:;,,:lx0XWMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOdoc:cdkKNWMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXK0KNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+-->
+
+
+
+
 <!doctype html>
 <?php //echo "<pre>"; print_r($aside); echo "</pre>";
 $sitename = "SMYO";
